@@ -107,8 +107,4 @@
 <div align="left">
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/notrinat/notrinat/output/snake.svg" alt="Snake animation" />
-
-###
