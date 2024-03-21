@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rinat and I'm from Russia and I live in Germany</h2>
+<h2 align="left">Hi 👋! My name is Rinat. I'm from Russia and I live in Germany</h2>
 
 ###
 
